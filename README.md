@@ -1,6 +1,9 @@
 <h1 align = "center"> 🌟LilyGO T-PicoC3🌟</h1>
 
 
+![](image/T-PicoC3_en.jpg)
+![](image/T-PicoC3_sp_en.jpg)
+
 # Quick start:
 
 ## Notice 
