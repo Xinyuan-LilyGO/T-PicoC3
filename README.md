@@ -27,7 +27,7 @@ https://github.com/earlephilhower/arduino-pico/releases/download/global/package_
 > 4. Type "pico" in the search box and select "Add":
 > 5. Copy  **TFT_eSPI**  to the  **<C:\Users\Your User Name\Documents\Arduino\libraries>**  directory
 > 6. Open **Arduino IDE,** find **TFT_eSPI** in the file and example, the **T-Display** factory test program is located at **TFT_eSPI -> FactoryTest**, you can also use other sample programs provided by TFT_eSPI
-> 7. In the **Arduino IDE** tool options, select the development board  **Raspbreey Pi Pico**, Other keep the default
+> 7. In the **Arduino IDE** tool options, select the development board  **Raspberry Pi Pico**, Other keep the default
 > 8. Hold down the BOOT button, click the reset button, and release the BOOT button after a delay of one second or after waiting for the computer to eject a new disk
 > 9. Finally, click upload or drag the firmware to the new disk
 ---
