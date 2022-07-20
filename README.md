@@ -75,7 +75,7 @@ https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32
 
 | Product    |  Product Link  |
 | :--------: | :------------: |
-| T-PicoC3   | [AliExpress]()  |
+| T-PicoC3   | [Amazon(USA)](https://www.amazon.com/dp/B0B3RF87VG?ref=myi_title_dp)  |
 
 | Pins       | RP2040          |
 | ---------- | --------------- |
